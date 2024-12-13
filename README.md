@@ -17,15 +17,4 @@ ArtiFact is an application designed to detect art created by artificial intellig
 1. Clone this repository:  
    ```bash
    git clone https://github.com/ARTIFACT-CAPSTONE/CC.git
-Navigate to the project directory:
-bash
-Salin kode
-cd CC
-Install dependencies:
-bash
-Salin kode
-npm install
-Run the application:
-bash
-Salin kode
-npm start
+
